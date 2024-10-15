@@ -1,0 +1,75 @@
+h1{
+padding: 10px;
+padding-bottom: 0px;
+margin: 5px;
+background-color: lightblue;
+text-align: center;
+height: 100%;
+font-size: 40px;
+font-family: Robot Mono, monospace;
+color: white
+}
+h2{
+padding: 5px;
+margin: 5px;
+background: cornflowerblue;
+text-align: center;
+height: 100%;
+font-size: 20px;
+font-family: Robot Mono, monospace;
+color: white;
+}
+h3{
+text-align: center;
+height: 100%;
+font-size: 25px;
+font-family: Robot Mono, monospace;
+color: white;
+}
+h1{
+padding: 10px;
+padding-bottom: 0px;
+margin: 5px;
+background: cornflowerblue;
+text-align: center;
+height: 100%;
+font-size: 30px;
+font-family: Robot Mono, monospace;
+color: white
+}
+h4{
+padding: 0px;
+text-align: center;
+height: 100%;
+font-size: 20px;
+font-family: Robot Mono, monospace;
+color: royalblue;	
+}
+h5{
+padding-top: 0px;
+text-align: center;
+height: 100%;
+font-size: 30px;
+font-family: Robot Mono, monospace;
+color: royalblue;	
+}
+h6{
+padding: 10px;
+padding-bottom: 0px;
+margin: 5px;
+background-color: cornflowerblue;
+text-align: center;
+height: 100%;
+font-size: 40px;
+font-family: Robot Mono, monospace;
+color: white
+}
+img{
+border: double, 5px;
+padding-top: 0px;
+padding: 5px;
+width: 90%;	
+display: block;
+margin: auto;
+border-color: royalblue;
+}
